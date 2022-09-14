@@ -1,0 +1,56 @@
+{
+    "page_title": "Artists",
+    "menu": [
+        {
+            "title": "Artists",
+            "link": "artists.html"
+        },
+        {
+            "title": "Artworks",
+            "link": "artworks.html"
+        },
+        {
+            "title": "Video",
+            "link": "video.html"
+        },
+        {
+            "title": "Contact",
+            "link": "contact.html"
+        },
+        {
+            "title": "Viewing room",
+            "link": "viewing_room.html"
+        }
+    ],
+    "artists_list": {
+        "left": [
+            {
+                "title": "Michael Pemberton",
+                "link": "artist/michael-pemberton",
+                "img_link" : "img/artists/pemberton.jpg"
+            },
+            {
+                "title": "Richard Roberts",
+                "link": "artist/richard-roberts",
+                "img_link" : "img/artists/roberts.jpg"
+            },
+            {
+                "title": "Fujico rose",
+                "link": "artist/fujico-rose",
+                "img_link" : "img/artists/rose.jpg"
+            }
+        ],
+        "right": [
+            {
+                "title": "Beatrice Spadea",
+                "link": "artist/michael-pemberton",
+                "img_link" : "img/artists/spadea.jpg"
+            },
+            {
+                "title": "Paul Villinski",
+                "link": "artist/richard-roberts",
+                "img_link" : "img/artists/villinski.jpg"
+            }
+        ]
+    }
+}
